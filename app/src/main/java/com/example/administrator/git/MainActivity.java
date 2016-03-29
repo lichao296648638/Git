@@ -10,10 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //李超
-        //米浩
-        //嗨呀
-        //主分支添加代码
         //新功能B
+        //master版本
+        //新功能A
     }
 }
